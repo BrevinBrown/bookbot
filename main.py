@@ -31,5 +31,6 @@ def main():
         if character["character"].isalpha():
             print(f"{character["character"]}: {character["count"]}")
     print("============= END ===============")
+    
 main()
  
